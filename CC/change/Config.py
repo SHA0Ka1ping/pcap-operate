@@ -1,0 +1,4 @@
+HOST = 'localhost'
+PORT = 7964
+FTT_PORT = 8794
+MAX_WAITING = 5
