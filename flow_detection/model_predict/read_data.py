@@ -1,8 +1,10 @@
-import pandas as pd
+import datetime
 import os
 import time
-import datetime
 from collections import Counter
+
+import pandas as pd
+
 path='E:/学习/flow_detection/data/csv'
 class getData(object):
     def __init__(self,path):
@@ -57,8 +59,6 @@ class getData(object):
         numLabels = pd.Series(numLabels)  # {"Stage":numLabels}
         # print(numLabels.head(),type(numLabels))
         return numLabels
-
-
 
 def trans_timestamp(timestamp):
     #15/07/2019 01:55:22 PM
