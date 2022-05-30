@@ -1,0 +1,12 @@
+/tmp/updateserver
+C:\WINDOWS\tasksche.exe
+C:\Windows\mssecsvc.exe
+%AppData%\Local\Temp\bootloader.dec
+%AppData%\Roaming\warriors.dat
+dllhost.dat
+_DECRYPT_FILE.html
+_DECRYPT_FILE.txt
+/Users/_%User%_/Library/LaunchAgents/com.apple.Safari.pac.plist
+/Users/_%User%_/Library/LaunchAgents/com.apple.Safari.proxy.plist
+READ ME ABOUT DECRYPTION.txt
+C:\Flash player\vlc.exe
